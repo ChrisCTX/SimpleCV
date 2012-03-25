@@ -3,6 +3,9 @@ chrisctx@gmail.com
 
 This is my sample / demo for my Google Summer of Code (GSoC) application
 
-The program is split into two parts, one has a sample of the overall idea I want to develop and the other uses the first part to get the angle between a point where movement happened and the center of the image.
+The program is split into two parts, one has a sample of the overall idea I want to develop 
+and the other uses the first part to get the angle between a point where movement happened 
+and the center of the image.
 
-I include 5 images to use as tests with virtual cameras, it's just a matter of changing the file name and adding a new Region of Interest (ROI) that fits the area of the image that changes.
+I include 5 images to use as tests with virtual cameras, it's just a matter of changing the 
+file name and adding a new Region of Interest (ROI) that fits the area of the image that changes.
